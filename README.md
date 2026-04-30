@@ -6,6 +6,7 @@
 ## 📖 项目简介
 
 一个基于 Cloudflare Workers 的 Telegram 双向私信机器人。用户私聊机器人发消息，管理员在群组话题中一对一回复。
+<img width="2526" height="1650" alt="image" src="https://github.com/user-attachments/assets/33f3f5b6-c928-40a7-8859-0b65121c3a6d" />
 
 ---
 
